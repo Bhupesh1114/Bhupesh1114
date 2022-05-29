@@ -8,7 +8,7 @@
 
 <div>
   <div>
-    <h3>HTML5</h3>
+    <h5>HTML5</h3>
     <img width="80px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"/>
   </div>
   <div></div>
@@ -19,7 +19,7 @@
   <div></div>
   <div></div>
 </div>
-<img width="100px" src="https://camo.githubusercontent.com/0a6ef04b1c423027658e0a15df6296f8b93a76459be3adc5ce69df27eaed7575/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f68746d6c2d352e737667"/>
+
 <!--
 **Bhupesh1114/Bhupesh1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
