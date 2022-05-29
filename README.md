@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### 👨‍⚖️ I am a full-stack developer. Proficient in building user friendly websites. Passionate about implementing and launching new projects. Able to translate business requirements into technical solutions. I am always ready to learn new technologies.
 
-<img src="https://github.com/AdarshKhandare/BellaVitaorganic/blob/main/Bhupesh%20Kumawat.gif?raw=true" />
+<img width="80%" height="800px" src="https://github.com/AdarshKhandare/BellaVitaorganic/blob/main/Bhupesh%20Kumawat.gif?raw=true" />
 <!--
 **Bhupesh1114/Bhupesh1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
