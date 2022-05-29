@@ -150,9 +150,9 @@
   <a href="https://bhupesh-kumawat-portfolio-react.netlify.app/">
     <img align="left" src="https://media-exp1.licdn.com/dms/image/C4D03AQE-i1IMpq3fDQ/profile-displayphoto-shrink_400_400/0/1650371032418?e=1659571200&v=beta&t=CobVrN8crXVLL3YdMpfZ91xfT7tSzmoTCpyThUEz44c" width="28px" />
   </a>
-  <!-- <a href="https://leetcode.com/monumishra326/">
+  <a href="https://leetcode.com/monumishra326/">
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/leetcode.png?raw=true" width="24px"  />
-  </a> -->
+  </a> 
 </p>
 <br><br/> 
 <!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🙂</em> -->
