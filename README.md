@@ -140,26 +140,22 @@
 <!-- <p align="center">
   <a href="https://www.linkedin.com/in/bhupesh-kumawat/"><img src="https://img.shields.io/badge/Linkdin-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bhupeshkumawat100@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/KapilJa16839898"><img src="https://img.shields.io/badge/-Twitter-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
 </p> -->
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Connect with me ....** 
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> -->
 
 
 <p align="center">
-   <a href="https://twitter.com/KapilJa16839898">
-    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px" />
-  </a>
-  <a href="mailto:kapiljadon5849@gmail.com">
+  <a href="bhupeshkumawat100@gmail.com">
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px" />
   </a>
  <a href="https://medium.com/@kapiljadon5849">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/medium.svg" width="32px" />
   </a>
-  <a href="https://www.linkedin.com/in/kapil-jadon/">
+  <a href="https://www.linkedin.com/in/bhupesh-kumawat/">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
   </a>
-  <a href="https://kapiljadon-portfilio.netlify.app/#/">
+  <a href="https://bhupesh-kumawat-portfolio-react.netlify.app/">
     <img align="left" src="https://cdn-images-1.medium.com/max/1200/1*QJl1hOLut2qUyqNWgRrFFA.jpeg" width="28px" />
   </a>
   <!-- <a href="https://leetcode.com/monumishra326/">
