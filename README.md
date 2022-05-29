@@ -138,7 +138,7 @@
 
 
 <p align="center">
-  <a href="bhupeshkumawat100@gmail.com">
+  <a href="mailto:bhupeshkumawat100@gmail.com">
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px" />
   </a>
  <a href="https://medium.com/@bhupeshkumawat100">
