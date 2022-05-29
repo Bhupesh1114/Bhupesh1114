@@ -160,16 +160,16 @@
 ---
 ### 🐱 &nbsp;My Github stats:  
 </p> 
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bhupeshkumawat100&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Bhupesh1114&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
 <p align="center" >
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Kapil5849Jadon&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Bhupesh1114&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
 </p>
  
 <p>
-<a href="https://github.com/Kapil5849Jadon"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kapil5849Jadon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kapil5849Jadon&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<a href="https://github.com/Bhupesh1114"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhupesh1114&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Bhupesh1114&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -177,7 +177,7 @@
  <br/>
 <!-- <p align="center">
 <a href="https://github.com/Kapil5849Jadon"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kapil5849Jadon&theme=dracula" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhupesh1114&theme=dracula" />
 </span></a> </p> -->
 
  <!-- <!-- <br/> -->
