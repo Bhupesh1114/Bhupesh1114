@@ -7,9 +7,9 @@
 
 
 <div>
-  <div>
+  <div style="text-align:center">
     <h5>HTML5</h3>
-    <img width="80px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"/>
+    <img width="60px" height="60px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"/>
   </div>
   <div></div>
   <div></div>
