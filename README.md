@@ -1,16 +1,8 @@
-[![Kapil Jadon , I'm a Full Stack Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Kapil%20Jadon%20)](https://kapiljadon.com)
+[![Bhupesh Kumawat , I'm a Full Stack Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Kapil%20Jadon%20)](https://kapiljadon.com)
 
 <h3>👨‍⚖️ I am a full-stack developer. Proficient in building user friendly websites. Passionate about implementing and launching new projects. Able to translate business requirements into technical solutions. I am always ready to learn new technologies.</h3>
 
 
-
-
-
-
-
-<!-- - 📝 I write articles on [https://medium.com/@kapiljadon5849](https://medium.com/@kapiljadon5849)
-
-- 📫 How to reach me **contact@kapiljadon5849@gmail.com** -->
 
 <hr />
 
