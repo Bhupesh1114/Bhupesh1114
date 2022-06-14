@@ -95,7 +95,7 @@
 
 <span>Typescript</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg](https://cdn.svgporn.com/logos/typescript-icon.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
 
 </td>
 
@@ -123,7 +123,11 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/postman-icon.svg">
 
 </td>
-  
+
+</tr> 
+
+<tr valign="top" style="display:flex;justify-content:space-around;">
+
  <td width="25%" align="center">
 
 <span><b>npm</b></span><br><br>
@@ -131,7 +135,6 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/npm-icon.svg">
 
 </td>
-
 </tr> 
 
 </tbody>
