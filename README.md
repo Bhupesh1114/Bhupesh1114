@@ -135,6 +135,23 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/npm-icon.svg">
 
 </td>
+  
+   <td width="25%" align="center">
+
+<span><b>Jest</b></span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/jest.svg">
+
+</td>
+  
+    
+   <td width="25%" align="center">
+
+<span><b>Cypress</b></span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/cypress.svg">
+
+</td>
 </tr> 
 
 </tbody>
