@@ -82,20 +82,21 @@
 
 <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
 
-</td>
 
- <td width="40%" align="center">
-
-<span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
-
-<img  src="https://cdn.svgporn.com/logos/bootstrap.svg">
-
-</td>
 
 </tr>
 
 <tr valign="top" style="display:flex;justify-content:space-around;">
 
+  </td>
+
+ <td width="25%" align="center">
+
+<span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+
+</td>
 
 
  <td width="25%" align="center">
