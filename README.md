@@ -84,7 +84,7 @@
 
 </td>
 
- <td width="25%" align="center">
+ <td width="40%" align="center">
 
 <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
 
