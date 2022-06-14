@@ -89,6 +89,15 @@
 <tr valign="top" style="display:flex;justify-content:space-around;">
 
   </td>
+  
+  
+ <td width="25%" align="center">
+
+<span>Typescript</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg](https://cdn.svgporn.com/logos/typescript-icon.svg">
+
+</td>
 
  <td width="25%" align="center">
 
