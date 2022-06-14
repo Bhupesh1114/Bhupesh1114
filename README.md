@@ -88,7 +88,7 @@
 
 <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+<img  src="https://cdn.svgporn.com/logos/bootstrap.svg">
 
 </td>
 
