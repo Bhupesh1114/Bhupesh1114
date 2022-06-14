@@ -98,7 +98,7 @@
 
 
 
-<!-- <td width="25%" align="center">
+ <td width="25%" align="center">
 
 <span>𝗚𝗶𝘁</span><br><br>
 
@@ -122,7 +122,7 @@
 
 </td>
 
-</tr> -->
+</tr> 
 
 </tbody>
 
