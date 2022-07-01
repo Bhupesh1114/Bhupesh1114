@@ -177,7 +177,7 @@
   <a href="https://www.linkedin.com/in/bhupesh-kumawat/">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
   </a>
-  <a href="https://bhupesh-kumawat-portfolio-react.netlify.app/">
+  <a href="https://portfolio-bhupesh.netlify.app/">
     <img align="left" src="https://media-exp1.licdn.com/dms/image/C4D03AQE-i1IMpq3fDQ/profile-displayphoto-shrink_400_400/0/1650371032418?e=1659571200&v=beta&t=CobVrN8crXVLL3YdMpfZ91xfT7tSzmoTCpyThUEz44c" width="28px" />
   </a>
  <!-- <a href="https://leetcode.com/monumishra326/">
