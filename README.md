@@ -46,13 +46,6 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
 
 </td>
-  <td width="25%" align="center">
-
-<span>Next.js</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg">
-
-</td>
 
 </tr>
 
